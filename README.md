@@ -84,7 +84,7 @@ You can also follow the steps below to validate the results of our experiments o
 
 - **Run**: Change the relevant path in test.py and run this command: `python test.py`.
 
-#### The dataset division, checkpoints and inference results of SCSegamba when processing on Crack500, DeepCrack and CrackMap have been made available on [Resources_released](https://drive.google.com/file/d/1sZttku4AVH8CiyJQUnHnT3innBeU-9HS/view?usp=sharing).
+#### The dataset division, checkpoints and inference results of SCSegamba when processing on Crack500, DeepCrack and CrackMap have been made available on [Resources_released](https://drive.google.com/file/d/1gYyNbUHFpK7eJOSuRZn_7gIRQZafWni6/view?pli=1).
 
 ## 🔭Visualization
 
